@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.sar.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Miles\\collaborate_vr_V2\\collaborate_vr_V2\\collaborate_vr\\collaborate_vr\\github_folder\\UnityProject\\Environments_Merge\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "SAR [Testing]"
+        }
+      }
+    }
+  ]
+}
